@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>মিথুন হালদার</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f3f4f6;
+      color: #1f2937;
+      padding: 20px;
+    }
+    .container {
+      max-width: 700px;
+      margin: auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    img {
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 50%;
+      margin-bottom: 20px;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    p {
+      line-height: 1.6;
+    }
+    .links a {
+      display: inline-block;
+      margin: 10px;
+      color: #2563eb;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="mithun-halder.jpg" alt="Mithun Halder">
+    <h1>মিথুন হালদার (Mithun Halder)</h1>
+    <p><strong>পেশা:</strong> কনটেন্ট ক্রিয়েটর, ফটোগ্রাফার</p>
+    <p><strong>অবস্থান:</strong> বরিশাল, বাংলাদেশ</p>
+    <p>
+      আমি জীবনে টাকা ইনকাম করতে চাই, পুরো পৃথিবী ঘুরে দেখতে চাই। 
+      অনলাইনে কাজ করে সফল হতে চাই, প্রচুর টাকা আয় করতে চাই — যাতে করে শান্তিতে জীবন কাটানো যায়।
+      আমার ভালো লাগে কম্পিউটার দিয়ে কাজ করতে, ছবি তুলতে এবং ডিজিটাল কনটেন্ট বানাতে।
+    </p>
+    <div class="links">
+      <a href="https://www.facebook.com/mithun40.69" target="_blank">Facebook</a>
+      <a href="https://www.instagram.com/mithun40.69" target="_blank">Instagram</a>
+    </div>
+  </div>
+</body>
+</html>
